@@ -1,2 +1,2 @@
 # sithu88
-stihu 
+stihu for  git commands demostration 
